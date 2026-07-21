@@ -89,7 +89,7 @@ Opcional:
 # Clonando o Projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/controle-gastos.git
+git clone https://github.com/thiagosilva-devbr/controle-gastos.git
 ```
 
 Entre na pasta
