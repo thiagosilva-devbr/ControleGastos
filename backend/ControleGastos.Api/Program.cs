@@ -1,8 +1,6 @@
 using ControleGastos.Data;
 using ControleGastos.Middlewares;
 using ControleGastos.Services;
-using ControleGastos.Data;
-using ControleGastos.Middlewares;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi;
 using System.Reflection;
